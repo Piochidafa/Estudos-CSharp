@@ -1,0 +1,19 @@
+
+&& é basicamento o AND do python{
+
+ex:
+
+if (a == "a" && b == "b") = True
+
+
+}
+
+|| é basicamente o OR do python{
+
+ex:
+
+if (a == "a" || a == "b") = True
+
+
+}
+
